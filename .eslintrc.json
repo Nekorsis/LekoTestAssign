@@ -1,0 +1,13 @@
+{
+    "extends": "airbnb",
+    "parser": "babel-eslint",
+    "rules": {
+        "import/extensions": "never",
+        "jsx-a11y/click-events-have-key-events": "never",
+        "jsx-a11y/no-noninteractive-element-interactions": "never",
+        "react/prop-types": "never",
+        "no-confusing-arrow": 0,
+        "react/sort-comp": "never",
+        "react/jsx-boolean-value": "never"
+    }
+}

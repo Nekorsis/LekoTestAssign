@@ -1,0 +1,201 @@
+{
+  "name": "Game of Thrones, death by season and episode",
+  "data": [
+    {
+      "name": "Will",
+      "role": "Ranger of the Night’s Watch",
+      "execution": "Beheaded for desertion by Ned Stark",
+      "killedBy": "Ned Stark",
+      "murderWeapon": "Blade"
+    },
+    {
+      "name": "Jon Arryn",
+      "role": "Hand to the King before Ned Stark",
+      "execution": "Poisoned by Lysa Arryn and Littlefinger",
+      "killedBy": "Lysa Arryn",
+      "murderWeapon": "Poison"
+    },
+    {
+      "name": "Jory Cassel",
+      "role": "Captain of the guards to House Stark",
+      "execution": "Stabbed by Jaime Lannister through the eye",
+      "killedBy": "Jaime Lannister",
+      "murderWeapon": "Blade"
+    },
+    {
+      "name": "Viserys Targaryen",
+      "role": "Exiled head of House Targaryen and brother to Daenerys Targaryen",
+      "execution": "Khal Drogo pours molten gold on his head at Daenerys’ command",
+      "killedBy": "Daenerys Targaryen",
+      "murderWeapon": "Molten gold"
+    },
+    {
+      "name": "Benjen Stark",
+      "role": "First Ranger of the Night’s Watch, Brother of Ned Stark",
+      "execution": "Unknown",
+      "killedBy": "Unknown",
+      "murderWeapon": "Unknown"
+    },
+    {
+      "name": "Robert Baratheon",
+      "role": "Lord of the Seven Kingdoms",
+      "execution": "Mortally wounded by a wild boar after drinking wine given to him by Lancel Lannister at Cersei Lannister’s command",
+      "killedBy": "Lancel Lannister",
+      "murderWeapon": "Boar"
+    },
+    {
+      "name": "Syrio Forel",
+      "role": "Master sword fighter and Arya Stark’s instructor in combat",
+      "execution": "Presumably killed by Ser Meryn in a sword fight (he was only armed with a training sword)",
+      "killedBy": "Ser Meryn",
+      "murderWeapon": "Blade"
+    },
+    {
+      "name": "Eddard Stark",
+      "role": "Hand of the King and Lord of the North",
+      "execution": "Beheaded by Ser Ilyn Payne at the order of Joffrey Baratheon",
+      "killedBy": "Ser Ilyn Payne",
+      "murderWeapon": "Blade"
+    },
+    {
+      "name": "Drogo",
+      "role": "Chieftain of the Dothraki people and husband of Daenerys Targaryen",
+      "execution": "Smothered by Daenerys Targaryen in a mercy killing after a spell by Mirri Maz Duur leaves him in a catatonic state",
+      "killedBy": "Daenerys Targaryen",
+      "murderWeapon": "Garrote"
+    },
+    {
+      "name": "Rhaego",
+      "role": "Son of Khal Drogo and Khaleesi Daenerys Targaryen",
+      "execution": "Stillborn because of a blood magic ritual performed by Mirri Maz Duur",
+      "killedBy": "Mirri Maz Duur",
+      "murderWeapon": "Magic"
+    },
+    {
+      "name": "Mirri Maz Duur",
+      "role": "Enslaved godswife",
+      "execution": "Burned alive on Drogo’s funeral pyre by Daenerys Targaryen",
+      "killedBy": "Daenerys Targaryen",
+      "murderWeapon": "Fire"
+    },
+    {
+      "name": "Rakharo",
+      "role": "Dothraki bodyguard to Daenerys Targaryen",
+      "execution": "Killed and decapitated by a rival khalasar while scouting the Red Waste",
+      "killedBy": "Unknown",
+      "murderWeapon": "Blade"
+    },
+    {
+      "name": "Yoren",
+      "role": "Recruiter for the Night’s Watch",
+      "execution": "Killed by Ser Amory Lorch, loyal to House Lannister, in a fight",
+      "killedBy": "Ser Amory Lorch",
+      "murderWeapon": "Blade"
+    },
+    {
+      "name": "Renly Baratheon",
+      "role": "Master of Laws, Claimant to the Iron Throne, brother of Robert and Stannis Baratheon",
+      "execution": "Killed by a shadow with Stannis Baratheon’s face that was birthed by Melisandre",
+      "killedBy": "Melisandre",
+      "murderWeapon": "Magic"
+    },
+    {
+      "name": "Rodrik Cassel",
+      "role": "Master-at-Arms at Winterfell, Servant of House Stark",
+      "execution": "Decapitated by Theon Greyjoy",
+      "killedBy": "Theon Greyjoy",
+      "murderWeapon": "Blade"
+    },
+    {
+      "name": "Irri",
+      "role": "Dothraki handmaiden to Daenerys Targaryen",
+      "execution": "Murdered during Xaro Xhoan Daxos’ theft of the dragons at Qarth",
+      "killedBy": "Xaro Xhoan Daxos",
+      "murderWeapon": "Blade"
+    },
+    {
+      "name": "Maester Luwin",
+      "role": "Maester of Winterfell",
+      "execution": "Osha ends his suffering after he is stabbed with a spear by ironborn raider Dagmer",
+      "killedBy": "Dagmer",
+      "murderWeapon": "Spear"
+    },
+    {
+      "name": "Qhorin",
+      "role": "Night’s Watch ranger",
+      "execution": "Killed by Jon Snow (at Qhorin’s own behest) in order to trick the Wildlings into thinking Jon has left the Night’s Watch",
+      "killedBy": "Jon Snow",
+      "murderWeapon": "Blade"
+    },
+    {
+      "name": "Pyat Pree",
+      "role": "Warlock from Qarth, Member of the Thirteen",
+      "execution": "Burned alive by Daenerys Targaryen’s dragons",
+      "killedBy": "Daenerys Targaryen",
+      "murderWeapon": "Fire"
+    },
+    {
+      "name": "Doreah",
+      "role": "Handmaiden to Daenerys Targaryen",
+      "execution": "Locked with Xaro Xhoan Daxos inside a Valyrian stone vault by Jorah Mormont at the order of Daenerys Targaryen",
+      "killedBy": "Jorah Mormont",
+      "murderWeapon": "Blade"
+    },
+    {
+      "name": "Xaro Xhoan Daxos",
+      "role": "Merchant in Qarth",
+      "execution": "Locked in a Valyrian stone vault by Jorah Mormont on the orders of Daenerys Targaryen",
+      "killedBy": "Jorah Mormont",
+      "murderWeapon": "Blade"
+    },
+    {
+      "name": "Hoster Tully",
+      "role": "Lord of Riverrun, Father of Edmure Tully, Catelyn Stark and Lysa Arryn",
+      "execution": "Illness",
+      "killedBy": "Unknown",
+      "murderWeapon": "Illness"
+    },
+    {
+      "name": "Jeor Mormont",
+      "role": "Lord Commander of the Night’s Watch",
+      "execution": "Stabbed to death by Night’s Watchman Rast during a mutiny",
+      "killedBy": "Rast",
+      "murderWeapon": "Blade"
+    },
+    {
+      "name": "Craster",
+      "role": "A Wildling who lived with his daughter-wives beyond the Wall",
+      "execution": "Killed by Karl Tanner, a Night’s Watchman",
+      "killedBy": "Karl Tanner",
+      "murderWeapon": "Blade"
+    },
+    {
+      "name": "Kraznys",
+      "role": "Salve-trader in Slaver’s Bay and one of the Good Masters",
+      "execution": "Burned alive by Drogon after he tries to trade the Unsullied for the dragon and insults Daenerys",
+      "killedBy": "Drogon",
+      "murderWeapon": "Fire"
+    },
+    {
+      "name": "Beric Dondarrion",
+      "role": "Leader of Brotherhood Without Banners",
+      "execution": "Killed by the Hound in trial by combat",
+      "killedBy": "Hound",
+      "murderWeapon": "Blade"
+    },
+    {
+      "name": "Ros",
+      "role": "Prostitute in Littlefinger’s brothel and spy for Varys",
+      "execution": "Shot by Joffrey Baratheon with a crossbow",
+      "killedBy": "Joffrey Baratheon",
+      "murderWeapon": "Crossbow"
+    },
+    {
+      "name": "Talisa Stark",
+      "role": "Wife of Robb Stark",
+      "execution": "Stabbed in the stomach while pregnant by Lothar Frey at the Red Wedding",
+      "killedBy": "Lothar Frey",
+      "murderWeapon": "Blade"
+    }
+  ]
+}
