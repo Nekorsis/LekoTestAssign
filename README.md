@@ -1,13 +1,12 @@
-# rawgTestAssign
-rawgTestAssign
+# LekoTestAssign
+LekoTestAssign
 
-https://nekorsis.github.io/rawgTestAssign/
 
 ``` bash
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# server at localhost:3000
 npm start
 
 ```
